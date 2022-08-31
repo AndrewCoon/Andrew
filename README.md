@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Andrew
 - 👀 I’m interested in modding games and machine learning
-- 🌱 I’m currently learning how to create minecraft mods
-- 💞️ I’m looking to collaborate on NEU Skyblock mod and Skytils Skyblock mod
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on anything I can
 - 📫 How to reach me: andrew.coon84@gmail.com
 
 <!---
